@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2c9daeb8048d1a94b9993087",
+  "owner": "yjjocltc",
+  "repo": "page-a20ad0c5a44c0acda6e877f2",
+  "title": "MyLink出海(MyLink)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a20ad0c5a44c0acda6e877f2",
+      "a": "MyLink出海(MyLink)",
+      "b": "",
+      "entity": "MyLink出海(MyLink)",
+      "brand": "MyLink出海(MyLink)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "eb8af61fcd844457e37ccf03e6ffcfe6adf21f951a77e98e7095b29771793b2a",
+      "content": {
+        "keyword1": "MyLink出海(MyLink)",
+        "keyword2": "",
+        "primary_entity": "MyLink出海(MyLink)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "MyLink出海(MyLink)是专注网络加速的官方机场服务，提供稳定VPN梯子、多节点订阅与全平台客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，欢迎访问官网选购套餐并获取官方下载。",
+          "AI_DESCRIPTION": "MyLink出海(MyLink)是专注网络加速的官方机场服务，提供稳定VPN梯子、多节点订阅与全平台客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，欢迎访问官网选购套餐并获取官方下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FFF8F0;color:#2A2A2A;line-height:1.65;font-size:16px} .wrap{max-width:960px;margin:0 auto;padding:16px}header{padding:18px 0 16px;border-bottom:2px solid #E85D4C;margin-bottom:20px} .brand{font-weight:700;font-size:1.15rem;color:#C94A3A}nav{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:10px}nav a{color:#C94A3A;text-decoration:none;font-weight:600;font-size:14px}h1{font-size:1.7rem;color:#C94A3A;margin:8px 0 12px;line-height:1.3}h2{font-size:1.32rem;color:#C94A3A;margin:28px 0 12px;border-left:4px solid #E85D4C;padding-left:10px}h3{font-size:1.08rem;margin:14px 0 8px;color:#333}p{margin-bottom:12px}ul,ol{margin:0 0 12px 1.2em}li{margin-bottom:6px} .cards{display:flex;flex-direction:column;gap:14px} .card{background:#fff;border:1px solid #F0E6DC;border-radius:12px;padding:16px} .card.featured{border:2px solid #E85D4C;background:#FFF5F2} .price{font-size:1.35rem;font-weight:700;color:#E85D4C;margin:6px 0} .subprice{font-size:14px;color:#5A5A5A;margin-bottom:8px} .features{list-style:none;margin-left:0} .features li{padding:5px 0;border-bottom:1px dashed #F0E6DC} .client{background:#fff;padding:12px 14px;border-radius:8px;border-left:4px solid #E85D4C;margin-bottom:10px}a.btn{display:inline-block;background:#E85D4C;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:600;margin:6px 8px 0 0}details{background:#fff;border-radius:8px;padding:12px 14px;margin-bottom:10px;border:1px solid #F0E6DC}summary{font-weight:600;color:#C94A3A}details p{margin-top:8px;color:#5A5A5A} .ad{background:#FFF0EB;padding:14px;border-radius:8px;margin:20px 0}footer{margin-top:36px;padding-top:18px;border-top:1px solid #F0E6DC;font-size:14px;color:#5A5A5A} .links{display:flex;flex-wrap:wrap;gap:8px 12px;margin:8px 0 12px} .links a{color:#C94A3A;text-decoration:none} @media(min-width:720px){.cards{flex-direction:row;flex-wrap:wrap}.card{flex:1 1 280px}}</style><header class=\"wrap\"><p class=\"brand\">MyLink出海 官方网站</p><nav><a href=\"#jianjie\">品牌简介</a><a href=\"#changjing\">使用场景</a><a href=\"#taocan\">套餐订阅</a><a href=\"#kehuduan\">客户端下载</a><a href=\"#caozuo\">操作说明</a><a href=\"#jiedian\">节点线路</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></header><main class=\"wrap\"><h1>MyLink出海(MyLink)</h1><p>MyLink出海官方网站提供高速 VPN 梯子、机场订阅与多端客户端下载，帮助您稳定访问国际网络、解锁流媒体并完成游戏与办公加速。请通过官网选择套餐并按指引配置客户端。</p><section id=\"jianjie\"><h2>品牌简介</h2><p>MyLink出海(MyLink) 是面向个人与团队的网络加速与机场订阅服务。我们把优质国际线路、智能分流和持续运维整合进一份可导入主流客户端的订阅，让跨境访问、内容解锁与低延迟连接变得可预期、可管理。</p><p>作为官方网站，本页集中说明套餐、客户端选择、导入步骤与节点策略。所有订阅链接仅通过官网账户发放。请认准 MyLink出海 品牌名称，避免在非官方渠道购买或下载来路不明的配置与安装包。</p><p>服务定位清晰：不是万能的“万能加速器广告页”，而是可落地的机场订阅与客户端使用说明。您可以按设备选择 Clash、Shadowrocket、Quantumult、sing-box 等客户端，用同一份订阅在多端保持一致的节点体验。</p></section><section id=\"changjing\"><h2>使用场景</h2><h3>海外流媒体与内容解锁</h3><p>需要观看国际流媒体、音乐或创作者平台时，可选用标注解锁能力的节点。旗舰版强调全节点原生流媒体解锁，适合对画质和地区库完整性要求更高的用户。</p><h3>国际游戏与实时对战</h3><p>对延迟敏感的对局可优先走 IPLC 或游戏优化线路，降低抖动与丢包。旗舰版包含 IPLC 专线游戏加速优化，适合晚高峰仍希望保持可玩性的用户。</p><h3>远程办公与协作</h3><p>跨境会议、代码仓库、设计协作与云文档访问，依赖稳定的长连接。建议开启客户端 TUN 或系统代理，并让国内站点走直连分流以节省流量。</p><h3>学术检索与资料下载</h3><p>访问学术搜索、预印本、课程平台与专业数据库时，稳定出口比单纯追求“最快”更重要。可固定一条质量较好的线路，避免频繁切换导致会话中断。</p><h3>跨境电商与多地区运营</h3><p>店铺后台、广告投放与社媒运营常需要相对固定的出口。团队版提供更高设备数与专属路由空间，便于小组共用订阅又互不影响配额。</p></section><section id=\"taocan\"><h2>套餐价格与机场订阅</h2><p>以下为官网当前可购套餐。流量按自然月重置，年付可锁定优惠。支付完成后即可在账户中复制通用订阅链接，用于 Clash / V2Ray / Sing-box 等客户端。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"subprice\">按年付仅需 ¥150/年</p><ul class=\"features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"btn\" href=\"#caozuo\">了解如何订阅</a></p></article><article class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"subprice\">按年付仅需 ¥350/年</p><ul class=\"features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"btn\" href=\"#kehuduan\">去选客户端</a></p></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"subprice\">按年付仅需 ¥850/年</p><ul class=\"features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"btn\" href=\"#faq\">查看设备与流量说明</a></p></article></div></section><section id=\"kehuduan\"><h2>客户端选择与官方下载</h2><p>MyLink出海的核心使用方式是：官网获取机场订阅，再导入您自己安装的客户端。客户端本身免费，请从各应用官方商店或开源发布页获取，本站不托管安装包，以避免版本滞后或被篡改。</p><div class=\"client\"><h3>Windows / macOS / Linux</h3><p>常用 Clash Meta、Clash Verge、FlClash、v2rayN、NekoBox 与 sing-box 图形客户端。安装后选择“从 URL 导入订阅”，粘贴官网提供的 Clash 或通用链接并更新节点。桌面端建议开启系统代理或 TUN，以便终端与浏览器同时生效。</p><p><a class=\"btn\" href=\"#\">桌面端官方下载指引</a></p></div><div class=\"client\"><h3>iOS / iPadOS</h3><p>常用 Shadowrocket、Quantumult X、Surge 与 Stash。部分应用需非国区商店。添加订阅后可按规则分流：国内域名直连，国际流量走代理。首次使用请先测延迟，再收藏常用节点。</p><p><a class=\"btn\" href=\"#\">iOS 客户端说明</a></p></div><div class=\"client\"><h3>Android</h3><p>常用 Clash Meta for Android、NekoBox、v2rayNG 与 Surfboard。授权 VPN 权限后导入订阅即可。如需全局，开启 TUN；如仅浏览，可对指定应用分流以节省电量与流量。</p><p><a class=\"btn\" href=\"#\">Android 客户端说明</a></p></div><div class=\"client\"><h3>路由器、电视与软路由</h3><p>OpenWrt 可使用 OpenClash 或 PassWall 读取同一订阅。客厅电视或盒子可选用支持订阅的播放/代理应用。团队版更适合把订阅下发到网关，让多台终端共享出口。</p><p><a class=\"btn\" href=\"#caozuo\">查看导入步骤</a></p></div></section><section id=\"caozuo\"><h2>操作说明</h2><h3>第一步：在官网选择套餐</h3><p>根据流量、设备数和是否需要 IPLC/流媒体完整解锁，选择基础版、旗舰版或团队版。年付适合长期使用，月付适合先验证线路质量。</p><h3>第二步：获取机场订阅链接</h3><p>完成支付后进入账户中心，复制 Clash、V2Ray 或 Sing-box 格式订阅。同一账户的链接可在允许的设备数内共用，请勿公开传播订阅地址。</p><h3>第三步：安装客户端并导入</h3><p>按上一节选择与设备匹配的客户端，新建订阅、粘贴 URL、立即更新。若更新失败，检查是否复制了完整链接、系统时间是否准确，以及客户端是否支持该协议。</p><h3>第四步：选择节点并开启加速</h3><p>先测延迟，优先同一大区的专线或 BGP 优化节点。观看流媒体请选解锁节点；游戏请选 IPLC/游戏优化；办公可固定一条稳定线路。开启连接后访问国际站点验证，同时确认国内站点仍可直连。</p><h3>第五步：日常维护</h3><p>节点有更新时在客户端点击更新订阅即可。流量将尽或到期前可在官网升级或续费。旗舰版与团队版工单优先处理异常线路、解锁失败或设备超限问题。</p></section><section id=\"jiedian\"><h2>节点线路与加速性能</h2><p>线路覆盖香港、台湾、日本、韩国、新加坡、美国与部分欧洲出口。亚太节点侧重低延迟访问与流媒体，北美节点侧重内容库与协作工具。部分游戏线路采用 IPLC 专线思路，减少绕行带来的抖动。</p><p>套餐按流量计费、不额外限峰值速率，实际速度仍受您本地宽带、时段拥堵与目标网站限制。智能分流可让国内视频、支付与政务站点直连，把机场流量留给真正需要加速的访问。遇到单节点异常时，切换同区域备用线路通常即可恢复。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>MyLink出海是官方机场吗？如何确认官网？</summary><p>是的。本页是 MyLink出海(MyLink) 官方网站，用于说明套餐、机场订阅与客户端下载路径。请核对品牌全称，只在本站完成购买与复制订阅。不要轻信代充、破解客户端或来路不明的“加速器安装包”。</p></details><details><summary>如何完成机场订阅并开始使用梯子？</summary><p>在套餐区选择版本并支付，到账户中复制订阅 URL，再按客户端选择一节导入 Clash、Shadowrocket、Quantumult 或 sing-box。更新节点后选择线路连接，即完成从官网到加速器的完整流程。</p></details><details><summary>客户端下载收费吗？应该去哪里下载？</summary><p>客户端不收费。MyLink出海只提供订阅，不捆绑收费安装包。请使用各客户端官方商店、GitHub 发布页或开发者站点。本页给出选择建议与导入方法，并用锚点指引到操作说明，避免用户落到仿冒下载站。</p></details><details><summary>订阅导入失败或节点列表为空怎么办？</summary><p>先确认链接完整、未含多余空格，再核对客户端协议是否匹配（Clash 配置不要强行当 SS 链接用）。检查设备时间、网络是否已能访问订阅域名。仍失败时更新客户端版本，或在官网重新生成订阅后重试。旗舰版可走优先工单。</p></details><details><summary>流量用完、到期或设备超限会怎样？</summary><p>流量耗尽后新连接会失败，国内直连一般不受影响。到期未续费则订阅停止更新。基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，超限可能互相挤占。可在官网升级套餐、续费或按团队版调整路由与配额。</p></details><details><summary>是否支持退款？线路不好用如何处理？</summary><p>虚拟订阅开通后通常不支持无理由退款。若某条线路持续高延迟或解锁失败，请先切换同区域节点并更新订阅；仍异常可通过工单反馈。旗舰版含 7x24 优先支持，团队版可联系客户经理协助定制路由。</p></details></section><div class=\"ad\" id=\"ads\"><h2>公告与合作展示</h2><p>请仅通过 MyLink出海官网获取机场订阅与客户端使用说明。任何要求您提供验证码、远程桌面或安装来路不明加速器的行为都不可信。合法使用网络加速服务，遵守您所在地区的法律法规。</p></div><section id=\"sitemap\"><h2>网站地图</h2><p>本页为官网单页结构，便于移动端一次读完订阅与下载要点：</p><ul class=\"links\"><li><a href=\"#jianjie\">品牌简介</a></li><li><a href=\"#changjing\">使用场景</a></li><li><a href=\"#taocan\">套餐与机场订阅</a></li><li><a href=\"#kehuduan\">客户端选择与官方下载</a></li><li><a href=\"#caozuo\">操作说明</a></li><li><a href=\"#jiedian\">节点与性能</a></li><li><a href=\"#faq\">常见问题</a></li></ul></section><section><h2>友情链接</h2><div class=\"links\"><a href=\"#\">客户端兼容说明</a><a href=\"#\">订阅导入备忘</a><a href=\"#\">分流规则入门</a><a href=\"#\">IPLC 与普通线路差异</a><a href=\"#\">官网下载须知</a></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"wrap\"><p>© 2025 MyLink出海(MyLink) 官方网站。本站提供 VPN 梯子、机场订阅与客户端下载说明，请合法使用网络加速服务。</p><p><a href=\"#jianjie\">返回简介</a> · <a href=\"#kehuduan\">客户端下载</a> · <a href=\"#faq\">常见问题</a></p></footer>",
+          "hash": "41b374deadb0fbaab71635cd1cc6ee7559eb87c58084efe012e52dcf573eb45b",
+          "seo": {
+            "title": "MyLink出海(MyLink)官网 | 高速VPN梯子、机场订阅与客户端下载",
+            "keywords": "MyLink出海,MyLink,MyLink VPN,MyLink机场,VPN梯子,网络加速,加速器,机场订阅,客户端下载,官网下载,Clash客户端,Shadowrocket,IPLC专线,流媒体解锁",
+            "description": "MyLink出海(MyLink)是专注网络加速的官方机场服务，提供稳定VPN梯子、多节点订阅与全平台客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，欢迎访问官网选购套餐并获取官方下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bbszs.cn",
+    "host": "p-a5d9d2bd66.bbszs.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bbszs.cn",
+      "url": "https://bbszs.cn/",
+      "label": "鸡哥(iKuuuu)",
+      "apex": "bbszs.cn",
+      "kind": null,
+      "identity": "nqbpeguetu/page-7c0d308c5c1220183610a3b3"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5b8d37db6e47f317180483b8ada64d26af2bfa89180f67e1de37c66ca3c557bd",
+    "sitemap.xml": "e4d3f69e8ffe5ad29eaa3f6f19497f9e910591c69679054cb554ec98d0a62b8e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fbc548ce5fbdd7d2a854012e8c3589260147c009e60d01e1852d1955b09dfc3a",
+    "robots.txt": "e2708a14d8fc2ca9ff4f99c09f17193e2f3992966c3fd65c7838a823304d4d8c",
+    "7c4b539bc3115aadd7eac2de50b74f1c.txt": "4fda86cc1b397cd390aa2d776a9dd32c4d359afd2a7395cfcdf41e03fbb5e46a"
+  },
+  "revision": "d023a2e112d2c496b9544e06b6cb59fc5a978d1f68d70d2710b057e1657ee90a"
+}
